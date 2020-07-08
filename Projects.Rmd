@@ -1,0 +1,10 @@
+---
+title: "Projects"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
